@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ibizlab/emqx:4.4
 ibizlab/uaa-api:2.0.9
-ibizlab/ibiz-ebsx-allinone-rt:8.1.0.530
+ibizlab/ibiz-ebsx-allinone-rt:8.1.0.503.240506
 ibizlab/ibiz-ebsx-gateway:8.1.0.377
 ibizlab/ibiz-cloud-web-runner:9.0.6.3
 ibizlab/ibiz-service-runner:8.1.0.532.1
